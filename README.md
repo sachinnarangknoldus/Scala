@@ -66,4 +66,9 @@ I have added 11 testcase to check all the flags.
 ./applicationname name_to_be_printed -flag   //Incase if you donot pass and flag by default it will use "$"
 
 ## For GraalVm native-image:(Go to this location)
+```
+Create a native image: $GRAAL_HOME/native-image -jar file-name.jar
+
+#I have already created here
 Scaladevil/cliParser/target/scala-2.12/cliParser-assembly-0.1.0-SNAPSHOT
+```
