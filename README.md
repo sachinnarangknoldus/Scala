@@ -1,6 +1,7 @@
 Read Me
 
-Scaladevil (I have included the target folder if you want I can ignore it using .gitignore but the point of not ignoring it was the native image present in the target folder you can check the location below)
+Scaladevil (I have not included the target folder which contains the native image on the location below & for universal pacakage i have created a release)
+Here is the link of complete code : - 
 
 A simple client server application. The client would send requests based on the data contained in the flags to the server using Unix Domain Socket. The Server after processing the request will send the reply back to be shown by the cli. 
 
