@@ -1,0 +1,5 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/IdeaProjects/Scaladevil/flags/src/test/scala/com/knoldus/CliparserTest.scala:3:20: imported `Cliparser' is permanently hidden by definition of class Cliparser in package knoldus[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport com.knoldus.Cliparser[0m
+[0m[[0m[33mwarn[0m] [0m[0m                   ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mthere were two deprecation warnings (since 2.11.0); re-run with -deprecation for details[0m
+[0m[[0m[33mwarn[0m] [0m[0mtwo warnings found[0m

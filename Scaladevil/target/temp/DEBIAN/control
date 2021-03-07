@@ -1,0 +1,10 @@
+Source: raatbhar
+Package: raatbhar
+Version: 0.1
+Section: java
+Priority: optional
+Architecture: all
+Installed-Size: 5806
+Maintainer: Max Smith <max.smith@yourcompany.io>
+Description: Raatbhar
+ Raatbhar

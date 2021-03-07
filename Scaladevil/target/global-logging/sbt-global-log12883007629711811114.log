@@ -1,0 +1,62 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(assembly, Some(693999a9-e9c9-4caa-abcf-ec7cb7595cd4), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: flags / assembly, cliParser / assembly, assembly[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: scala-library-2.13.5.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: scala-library.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: scala-library.jar[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 35 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 0, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 0, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33mNo tests were executed.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mChecking every *.class/*.jar file's SHA-1.[0m
+[0m[[0m[0minfo[0m] [0m[0mMerging files...[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 41 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 0, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 0, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33mNo tests were executed.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mChecking every *.class/*.jar file's SHA-1.[0m
+[0m[[0m[0minfo[0m] [0m[0mMerging files...[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/MANIFEST.MF' with strategy 'discard'[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCliparserTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m--help[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should always return a pay contains details about all the flags[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m--help[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not return a () in any case[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m-s[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should always return $ for printing[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m-s[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not return anything other than $[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m-a[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should always return @ for printing[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m-a[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not return anything other than @[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m-k[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should always return * for printing[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m-k[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should never return unit()[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m-i[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should always return ! for printing[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m-i[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should never return ! for printing[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mIf any wrong flag is passed it[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should always gives exception and return '^' Character[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0mStrategy 'discard' was applied to a file[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/MANIFEST.MF' with strategy 'discard'[0m
+[0m[[0m[0minfo[0m] [0m[0mAssembly up to date: /home/knoldus/IdeaProjects/Scaladevil/cliParser/target/scala-2.12/cliParser-assembly-0.1.0-SNAPSHOT.jar[0m
+[0m[[0m[33mwarn[0m] [0m[0mStrategy 'discard' was applied to a file[0m
+[0m[[0m[0minfo[0m] [0m[0mAssembly up to date: /home/knoldus/IdeaProjects/Scaladevil/target/scala-2.13/Scaladevil-assembly-0.1.jar[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 390 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 11[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 11, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mChecking every *.class/*.jar file's SHA-1.[0m
+[0m[[0m[0minfo[0m] [0m[0mMerging files...[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/MANIFEST.MF' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mStrategy 'discard' was applied to a file[0m
+[0m[[0m[0minfo[0m] [0m[0mAssembly up to date: /home/knoldus/IdeaProjects/Scaladevil/flags/target/scala-2.12/flags-assembly-0.1.0-SNAPSHOT.jar[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 1 s, completed 07-Mar-2021, 2:55:59 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
+[0m[[0m[0minfo[0m] [0m[0mshutting down sbt server[0m

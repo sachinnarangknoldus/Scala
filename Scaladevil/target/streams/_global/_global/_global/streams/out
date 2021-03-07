@@ -1,0 +1,3 @@
+[0m[[0m[0minfo[0m] [0m[0mGenerating new GraalVM native-image image based on oracle/graalvm-ce:springci/graalvm-ce: oracle-graalvm-ce-native-image:springci/graalvm-ce[0m
+[0m[[0m[31merror[0m] [0m[0minvalid argument "oracle-graalvm-ce-native-image:springci/graalvm-ce" for "-t, --tag" flag: invalid reference format[0m
+[0m[[0m[31merror[0m] [0m[0mSee 'docker build --help'.[0m
